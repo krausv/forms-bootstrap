@@ -1,5 +1,5 @@
 {
-    "name": "krausv\forms-bootstrap",
+    "name": "krausv/forms-bootstrap",
     "description": "Bootstrap form renderer for nette/forms",
     "license": "LGPL",
     "keywords": ["nette", "form", "bootstrap", "renderer"],
