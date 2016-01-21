@@ -1,0 +1,22 @@
+{
+    "name": "krausv\forms-bootstrap",
+    "description": "Bootstrap form renderer for nette/forms",
+    "license": "LGPL",
+    "keywords": ["nette", "form", "bootstrap", "renderer"],
+    "authors": [
+        {
+            "name": "Václav Kraus",
+            "email": "krauva@gmail.com",
+            "homepage": "http://vk-web.cz"
+        }
+    ],
+    "require": {
+        "php": ">= 5.3.7",
+        "nette/forms": "~2.3"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
